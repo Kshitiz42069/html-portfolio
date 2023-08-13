@@ -1,0 +1,120 @@
+div{
+    display: block;
+}
+.top{
+    background-color: #F6F4EB;
+    text-align: center;
+    position: relative;
+    padding-top: 175px;
+}
+.fon{
+    color: #4682A9;
+    font-family: 'Permanent Marker', cursive;
+    font-size: large;
+}
+.name{
+    text-decoration: underline;
+}
+.goku{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    right: 30px;
+    top: 30px;
+
+}
+.dp{
+    border-radius: 50%;
+    height: 200px;
+    padding-top: 50px;
+}
+.gif{
+    height: 200px;
+    width: 200px;
+    
+}
+.fon2{
+    color: #4682A9;
+    font-size: larger;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+}
+
+.girl1{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    left: 0px;
+    
+}
+.demon{
+    height: 200px;
+    width: 500px;
+}
+.second{
+    align-items: center;
+    text-align: center;
+    background-color: #D4E2D4;
+    position: relative;
+}
+.one{
+    align-items: center;
+    text-align: center;
+    position: relative;
+    font-size: large;
+}
+.skills{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 0 auto;
+    row-gap: 2rem;
+}
+.projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+    width: 50%;
+    margin: 50px auto 0px auto;
+    column-gap: 2rem;
+}
+h1{
+    color: #4682A9;
+    font-family: 'Permanent Marker', cursive;
+}
+.p1{
+    height: 250px;
+    width: 250px;
+}
+.third{
+    background-color: #749BC2;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.container{
+    font-family: 'Permanent Marker', cursive;
+    color: #D4E2D4;
+}
+.btn{
+    background: #D4E2D4;
+    background-image: linear-gradient(to bottom, #D4E2D4, #6d8f90);
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    align-items: center;
+}
